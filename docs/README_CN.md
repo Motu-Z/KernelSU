@@ -51,7 +51,7 @@ WSA, ChromeOS 和运行在容器上的 Android 也可以与 KernelSU 一起工�
 
 ## 鸣谢
 
-- [kernel-assisted-superuser](https://git.zx2c4.com/kernel-assisted-superuser/about/)：KernelSU 的灵感。
+- [kernel-assisted-superuser](https://git.zx2c4.com/kernel-assisted-superuser/about/)：KernelSU 的灵感来源。
 - [Magisk](https://github.com/topjohnwu/Magisk)：强大的 root 工具箱。
 - [genuine](https://github.com/brevent/genuine/)：apk v2 签名验证。
 - [Diamorphine](https://github.com/m0nad/Diamorphine)：一些 rootkit 技巧。
